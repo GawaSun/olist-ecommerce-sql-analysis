@@ -7,7 +7,7 @@ high-performing sellers from the rest.
 
 **Dataset:** [Olist Brazilian E-Commerce (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 **Tools:** DuckDB, Python, Pandas, Google Colab
-**Notebook:** [SQLforDSA_OlistBrazilian.ipynb](notebook/SQLforDSA_OlistBrazilian.ipynb)
+**Notebook:** [SQLforDSA_OlistBrazilian.ipynb](notebook/SQL-OlistBrazilian.ipynb)
 
 ## Key Findings
 1. Health & beauty and bed & bath dominate by order volume; watches & gifts leads by average transaction value
