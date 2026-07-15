@@ -1,4 +1,3 @@
-# olist-ecommerce-sql-analysis
 # Olist Brazilian E-Commerce — SQL Analysis
 
 Analysis of consumer behavior on a Brazilian e-commerce marketplace using SQL (DuckDB) and Python.
